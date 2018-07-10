@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "855415931866",
+    "firebase_url": "https://fcmname-b4384.firebaseio.com",
+    "project_id": "fcmname-b4384",
+    "storage_bucket": "fcmname-b4384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855415931866:android:ea343d0bc4cc64dc",
+        "android_client_info": {
+          "package_name": "com.trial.abhilash.fcmtrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855415931866-cnfb2i0fg4r15qcr56ctn9qs72ldc7ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAhkkHTH9IfCkkko5p_oIyvf0Lo8Ct1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
